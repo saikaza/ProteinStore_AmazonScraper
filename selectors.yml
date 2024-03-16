@@ -1,0 +1,10 @@
+name:
+    css: '#productTitle'
+    type: Text
+price_whole:
+    css: 'span.a-price-whole'
+    type: Text
+price_fraction:
+    css: 'span.a-price-fraction'
+    type: Text
+
